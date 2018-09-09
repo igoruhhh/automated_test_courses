@@ -1,2 +1,2 @@
-homework done
+work done
 
