@@ -1,3 +1,6 @@
+all_examples
+functions_example
+for_example
 .DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
