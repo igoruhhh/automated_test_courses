@@ -1,6 +1,6 @@
 # 1). Написать функцию is_year_leap, принимающую 1 аргумент — год, и
 # возвращающую True, если год високосный, и False иначе.
-year = int(input())
+# year = int(input())
 
 
 def is_year_leap(year):
@@ -10,7 +10,7 @@ def is_year_leap(year):
         return False
 
 
-print(is_year_leap(year))
+# print(is_year_leap())
 
 
 # 2)
@@ -25,8 +25,8 @@ def func(a, b, c):
         return False
 
 
-a = int(input())
-b = int(input())
-c = int(input())
-
-print(func(a, b, c))
+# a = int(input())
+# b = int(input())
+# c = int(input())
+#
+# print(func(a, b, c))
